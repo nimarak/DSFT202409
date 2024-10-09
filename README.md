@@ -1,2 +1,2 @@
-# DSFT202409
+# dsft202409
 Data Science Full Time Bootcamp Repo
